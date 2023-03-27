@@ -50,7 +50,7 @@ document is about how to get colab ready for chatGPT before running the colab co
 
 
 6. Set up the API key in the environment variable (mac/linux -> option 2):
-    8. Set the api key as an environment variable by running in terminal “echo "export OPENAI_API_KEY='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'" >> ~/.bash_profile“
+    8. Set the api key as an environment variable by running in terminal “echo "export OPENAI_API_KEY='your API key'" >> ~/.bash_profile“
     9. Update the shell with new variable by running in terminal ”source ~/.bash_profile“
     10. Test if you can get this variable by running in terminal “echo $OPENAI_API_KEY”
     11. done on the API key environment steup
